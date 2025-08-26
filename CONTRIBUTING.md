@@ -1,1 +1,1 @@
-CONTRIBUTING.md
+Job description of our project
